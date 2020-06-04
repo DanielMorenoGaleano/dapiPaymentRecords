@@ -1,0 +1,10 @@
+{
+	"paymentRequests": [
+		{
+			"paymentMethod": {
+				"paymentType": "ExternalPayment",
+				"externalPaymentRecordId": "CCCA456789XXXXXX0045"
+			}
+		}
+	]
+}
